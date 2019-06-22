@@ -1,1 +1,1 @@
-[[https://github.com/sumitvekariya/personal-card-flutter/blob/master/images/personal_card.png|alt=octocat]]
+[[./images/personal_card.png|alt=octocat]]
