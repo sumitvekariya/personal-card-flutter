@@ -1,1 +1,1 @@
-[[./images/personal_card.png|alt=octocat]]
+![](./images/personal_card.png)
